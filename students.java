@@ -1,5 +1,4 @@
 package javaswing;
-s
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -114,4 +113,5 @@ public class students extends JFrame implements ActionListener {
     public static void main(String[] args) {
         new students();
     }
+
 }
